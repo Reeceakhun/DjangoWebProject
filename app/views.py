@@ -39,7 +39,7 @@ def about(request):
         'app/about.html',
         {
             'title':'About',
-            'message':'Your application description page.',
+            'message':'Reece Asoloko Sabo',
             'year':datetime.now().year,
         }
     )
